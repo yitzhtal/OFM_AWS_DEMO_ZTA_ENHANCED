@@ -1,0 +1,6 @@
+1. Add MFA (another way to authenticate)
+2. Interface to the project that shows the work that was done
+3. Reference to the paper, to tools i'm going to use
+4. Add your own code / extend the work that was done on the code level
+5. Mention which code is taken and which code did you add
+6. Emphaszie that you don't just take the code and run it but also add your own extention
